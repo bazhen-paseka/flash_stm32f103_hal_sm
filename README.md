@@ -1,0 +1,1 @@
+flash_stm32f103_hal_sm
